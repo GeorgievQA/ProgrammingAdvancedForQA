@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\bin\Debug\net6.0\04EvenandOddSubtraction.exe
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\bin\Debug\net6.0\04EvenandOddSubtraction.deps.json
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\bin\Debug\net6.0\04EvenandOddSubtraction.runtimeconfig.json
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\bin\Debug\net6.0\04EvenandOddSubtraction.dll
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\bin\Debug\net6.0\04EvenandOddSubtraction.pdb
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\obj\Debug\net6.0\04EvenandOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\obj\Debug\net6.0\04EvenandOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\obj\Debug\net6.0\04EvenandOddSubtraction.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\obj\Debug\net6.0\04EvenandOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\obj\Debug\net6.0\04EvenandOddSubtraction.dll
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\obj\Debug\net6.0\refint\04EvenandOddSubtraction.dll
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\obj\Debug\net6.0\04EvenandOddSubtraction.pdb
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\obj\Debug\net6.0\04EvenandOddSubtraction.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\01DayOfWeek\04EvenandOddSubtraction\obj\Debug\net6.0\ref\04EvenandOddSubtraction.dll

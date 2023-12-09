@@ -1,0 +1,14 @@
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\bin\Debug\net6.0\03ReverseArray.exe
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\bin\Debug\net6.0\03ReverseArray.deps.json
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\bin\Debug\net6.0\03ReverseArray.runtimeconfig.json
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\bin\Debug\net6.0\03ReverseArray.dll
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\bin\Debug\net6.0\03ReverseArray.pdb
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\obj\Debug\net6.0\03ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\obj\Debug\net6.0\03ReverseArray.AssemblyInfoInputs.cache
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\obj\Debug\net6.0\03ReverseArray.AssemblyInfo.cs
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\obj\Debug\net6.0\03ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\obj\Debug\net6.0\03ReverseArray.dll
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\obj\Debug\net6.0\refint\03ReverseArray.dll
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\obj\Debug\net6.0\03ReverseArray.pdb
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\obj\Debug\net6.0\03ReverseArray.genruntimeconfig.cache
+C:\Users\bai koc\source\repos\01DayOfWeek\03ReverseArray\obj\Debug\net6.0\ref\03ReverseArray.dll
